@@ -1,20 +1,31 @@
 * {
     margin: 0;
     padding: 0;
+    color: rgb(40, 40, 40);
 }
 
 body {
-    
+    text-align: justify;
+    margin: 5vh 30%;
+    background-image: url(paper_texture.jpg) ;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
 h2 {
-    text-align: center;
+    margin: 2vh;
 }
 
-p {
-    text-align: center;
+.dialogue {
+    margin: 2vh;
+}
+
+.little_red_riding_hood {
+    color: hsl(0, 78%, 40%);
+}
+
+.wolf {
+    color:hsl(230, 80%, 39%)
 }
